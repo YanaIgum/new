@@ -1,0 +1,7 @@
+
+\.gradle
+\.java
+\build
+*.loh
+*.class
+*.idea
