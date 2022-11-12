@@ -1,7 +1,5 @@
-
 \.gradle
-\.java
+\.idea
 \build
-*.loh
+*.log
 *.class
-*.idea
